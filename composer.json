@@ -1,0 +1,15 @@
+{
+    "name": "gusstub/gus",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "gusstub\\gus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gus"
+        }
+    ],
+    "require": {}
+}
